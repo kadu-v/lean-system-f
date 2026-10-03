@@ -1,0 +1,6 @@
+name = "learn-lean4"
+version = "0.1.0"
+defaultTargets = ["SystemF"]
+
+[[lean_lib]]
+name = "SystemF"
